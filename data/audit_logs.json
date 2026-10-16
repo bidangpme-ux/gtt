@@ -1,0 +1,16 @@
+[
+  {
+    "id": "log_1792151234946_ooi05",
+    "timestamp": "2026-10-16T11:47:14.946Z",
+    "deviceInfo": "Windows 11/10 (Mozilla Firefox)",
+    "ipAddress": "192.168.1.10",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem.",
+    "status": "success",
+    "serverReceivedAt": "2026-10-16T11:47:14.347Z"
+  }
+]
